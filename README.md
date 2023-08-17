@@ -1,4 +1,5 @@
 # Sunshineparacloudgames
+Versão 0.20.0
 Salve sou shyn e irei atualiza-los sempre com os lançamentos mais recentes do sunshine, não se esqueçam de entrar em nossa comunidade do discord:https://discord.gg/spacecloud
 
 ATTS
