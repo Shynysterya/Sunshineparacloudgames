@@ -1,4 +1,8 @@
 # Sunshineparacloudgames
+Salve sou shyn e irei atualiza-los sempre com os lançamentos mais recentes do sunshine, não se esqueçam de entrar em nossa comunidade do discord:https://discord.gg/spacecloud
+
+ATTS
+
 (Windows) A versão do instalador do Windows do Sunshine agora é sempre iniciada pelo Sunshine Service. A inicialização manual do Sunshine.exe a partir dos Arquivos de Programas não é mais suportada. Isso foi necessário para solucionar problemas de segurança causados ​​por usuários não administradores com acesso aos dados de configuração do Sunshine. Se você configurou o Agendador de Tarefas ou outros mecanismos para iniciar o Sunshine automaticamente, remova-os do sistema antes de atualizar.
 (Windows) O atalho do Menu Iniciar foi reprojetado para uso com o Sunshine Service. Ele agora inicia o Sunshine em segundo plano (se ainda não estiver em execução) e abre a interface do usuário da Web, evitando a persistente janela do prompt de comando presente nas versões anteriores. O atalho do menu Iniciar agora é o método recomendado para abrir a interface do usuário da Web e iniciar o Sunshine.
 
